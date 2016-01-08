@@ -1,0 +1,15 @@
+export default {
+
+  // Note
+  NOTE_REQUEST: 'NOTE_REQUEST',
+  NOTE_RECEIVE: 'NOTE_RECEIVE',
+
+  // Recent Notes
+  RECENT_NOTES_REQUEST: 'RECENT_NOTES_REQUEST',
+  RECENT_NOTES_RECEIVE: 'RECENT_NOTES_RECEIVE',
+
+  // Errors
+  TIMEOUT: 'timeout',
+  ERROR: 'error'
+
+};
